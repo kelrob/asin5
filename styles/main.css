@@ -1,0 +1,73 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+#main-nav li a {
+  color: #000;
+}
+
+#login-link {
+  font-weight: bold;
+  color: #000;
+}
+
+#active b {
+  color: #f85d51;
+}
+
+#banner {
+  background-image: url("../images/slider-one.jpg");
+  height: 650px;
+  background-size: cover;
+}
+
+#mini-info,
+#new-talent {
+  margin-top: 10%;
+}
+
+#mini-info h2 {
+  font-weight: bold;
+  color: #2f80ed;
+}
+
+#more-less {
+  color: #000;
+  font-weight: bold;
+}
+
+#reg-btn {
+  width: 80%;
+  font-weight: bold;
+  background-color: #fc5d3d;
+  border-style: none;
+  padding: 1%;
+}
+
+#new-talent h2 {
+  font-weight: bold;
+}
+
+.card {
+  -webkit-box-shadow: 3px 3px 5px 6px #eee; /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow: 3px 3px 5px 6px #eee; /* Firefox 3.5 - 3.6 */
+  box-shadow: 3px 3px 5px 6px #eee;
+  border-style: none;
+}
+
+#bold {
+  font-weight: bold;
+  color: #2f80ed;
+}
+
+#color-accent {
+  color: #fc5d3d;
+}
+
+#form-input {
+  height: 4rem;
+  padding-left: 10%;
+  -webkit-box-shadow: 3px 3px 5px 6px #eee; /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow: 3px 3px 5px 6px #eee; /* Firefox 3.5 - 3.6 */
+  box-shadow: 3px 3px 5px 6px #eee;
+}
